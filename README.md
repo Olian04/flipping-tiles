@@ -17,4 +17,4 @@ My current idea is to draw a vector from the cursor to the center of any given t
 * Rotate3D docs: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate3d
 * Rotate3D demo: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_flip_card
 * Vectors: https://en.wikipedia.org/wiki/Euclidean_vector
-* Vector logic reference: https://evanw.github.io/lightgl.js/docs/vector.html
+* Vector logic reference: ~~https://evanw.github.io/lightgl.js/docs/vector.html~~ https://jsfiddle.net/q76ohvxp/1/
